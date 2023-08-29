@@ -29,46 +29,53 @@ const stories1Minute = [
     Vaak lijdt hij honger en gebrek.
         `
     },
+
     {
-        title: "De hond en het bot",
-        author: "Jean de La Fontaine",
-        source: "https://www.beleven.org/verhaal/de_hond_en_het_bot",
+        title: "Grand Prix",
+        author: "Driek van Wissen",
+        source: "https://www.dbnl.org/tekst/_twe007198101_01/_twe007198101_01_0091.php",
         content: `
-Een magere, sterke hond, die niet erg goed bekend stond,<br>
-kwam eens op een dag langs een slagerswinkel.<br>
-Daar zag hij een hoop smakelijke botten op de toonbank liggen.<br>
-Hij pakte er een en rende weg.<br><br>
-Later, onderweg, passeerde hij een rivier.<br>
-Halfweg de brug zag hij toevallig zijn spiegelbeeld in het water beneden zich.<br>
-Omdat hij dacht, dat het een andere hond was,<br>
-die een even smakelijk kluifje in zijn bek had, besloot hij handelend op te treden.<br><br>
-Hij gromde en hapte naar de hond in het water.<br>
-Hij deed zijn kaken van elkaar om zijn scherpe tanden te laten zien<br>
-en zo zijn vijand bang te maken.<br>
-Natuurlijk viel het bot toen prompt uit zijn bek en plonsde het in het water.<br>
-Het bot zonk naar de bodem buiten zijn bereik en het was voor altijd weg.<br><br>
-<em>Wees tevreden met wat je hebt.</em>        `
+Als wij rechtstreeks met Zandvoort zijn verbonden,<br>dan is, als men ons op de man af vraagt,<br>de autorace pas dan finaal geslaagd,<br>wanneer er doden vallen en gewonden.<br><br>Wij kijken uit naar de fatale ronde,<br>als een coureur zich iets te driest gedraagt<br>en roekeloos zijn jonge leven waagt<br>in ruil voor winst van luttele seconden.<br><br>Dan wordt met gretig oog het beeld verslonden<br>hoe onze held zichzelf de dood injaagt<br>en uit het smeulend wrak wordt uitgezaagd,<br>waar hij zijn Waterloo in heeft gevonden.<br><br>Geen schouwspel immers dat ons meer behaagt<br>dan als het doodgaan live wordt uitgezonden.
+        `
     },
-    // Voeg meer verhalen toe op dezelfde manier
+
+    {
+        title: "Letterlijk",
+        author: "Daan Zonderland",
+        source: "http://hetmooistegedicht.blogspot.com/search/label/Daan%20Zonderland%20-%20Letterlijk",
+        content: `
+Geachte Heer, ik moet u danken<br>voor het postpakket dat ik ontving.<br>Maar u vergeeft mij ongetwijfeld<br>een zekere teleurstelling.<br><br>Toen ik de hand vroeg van uw dochter<br>die ik hartstochtelijk bemin,<br>deed ik zulks niet in letterlijke,<br>doch overdrachtelijke zin.<br><br>
+        `
+    },
+
+        {
+        title: "Anti-Fries",
+        author: "Driek van Wissen",
+        source: "https://www.dbnl.org/tekst/_twe007198101_01/_twe007198101_01_0091.php",
+        content: `
+Als Holland winters is getooid<br>en wij van kou welhaast verrekken,<br>blijkt Friesland dichtbevolkt met gekken,<br>die 's winters gekker zijn dan ooit.<br><br>De maffe koppen, strak gelooid, <br>ontspannen plots in losser trekken,<br>terwijl zich rond de stuurse bekken<br>een soortement van glimlach plooit.<br> <br>In onverstaanbare gesprekken<br>worden dan praatjes rondgestrooid,<br>die ijdele verwachting wekken,<br><br>totdat de goden, als het dooit,<br>de hoop der dwaze halzen nekken.<br>Nee, de elfstedentocht komt nooit!
+        `
+    },
+    
+        // Voeg meer verhalen toe op dezelfde manier
 ];
 
 const stories2Minutes = [
-    {
-        title: "Verhaal van 2 minuten",
-        author: "Henoch",
-        source: "https://www.warempel.media",
-        content: `
-Een os stond in de wei te dromen bij een beek<br>En zag hoe daar vlakbij een kikker hem bekeek.<br>Hij was zichtbaar jaloers, niet groter dan een ei,<br>Maar kwaakte kwaad:<br>"Kijk, kijk! 'k Word net zo groot als jij!"<br>De os sloeg met zijn staart en stond zich te verbazen.<br>De kikker rekte zich, begon zich op te blazen.<br>Hij blies en blies, hield zich even in<br>En vroeg: "Is dit geen goed begin?<br>Ben ik op weinig tijd niet reuze aangekomen?"<br>De os zei: "Boe!" En bleef maar voor zich uit staan dromen.<br><br>De kikker wond zich op, begon met nieuwe moed<br>Hij voelde alles spannen. "Is het nu nog niet goed?"<br>"Boe!" deed de os bedroefd. "Het lijkt er echt niet op.<br>Niet groter dan een pad, maar met een dikke kop!"<br>Nu werd de kikker woest, hij duwde, blies en balde<br>Zijn spieren plots zo hard dat hij aan flarden knalde<br><br>De wereld barst van waan en nijd<br>Om wie de snelste auto rijdt<br>Het grootste huis. De verste reis.<br>Ach, is dat allemaal wel wijs?
-        `
-    },
-{ title: "De zoete pap", author: "De gebroeders Grimm", source: "https://www.beleven.org/verhaal/de_zoete_pap", content: ` Er was eens een arm vroom meisje dat alleen met haar moeder leefde en ze hadden niets meer te eten. Toen ging het kind naar het bos en daar zag ze een oude vrouw die al wist wat het meisje nodig had en ze gaf haar een pannetje en als ze daar tegen zei:<br>"Potje, kook!"<br>dan kookte het heerlijke zoete gerstepap, en als ze zei:<br>"Potje, stop!"<br>dan hield het weer op met koken.<br><br>Het meisje bracht het pannetje naar haar moeder en nu was de armoede en de honger voorbij en ze aten zoete pap zo vaak ze wilden.<br><br>Toen op een keer het meisje was uitgegaan, zei de moeder:<br>"Potje, kook!"<br>en het kookte en ze at tot ze genoeg had, maar nu wilde ze dat het pannetje weer ophield, maar ze wist het woord niet meer. Dus kookte het door, en de pap kwam over de rand en het kookte steeds maar door. De keuken vol pap en het hele huis vol pap, en het huis ernaast vol pap en de straat vol pap, alsof het de hele wereld wilde verzadigen. En er heerste de grootste nood en niemand wist raad. Eindelijk, toen er nog maar een enkel huis over was, kwam het meisje thuis en zei:<br>"Potje, stop!"<br>en toen hield het op met koken en wie naderhand weer de stad in wilde, moest zich door de pap heen eten. ` },
 
     {
-        title: "Het mannetje in de maan",
-        author: "Onbekend",
-        source: "https://www.beleven.org/verhaal/het_mannetje_in_de_maan",
+        title: "Koekjes",
+        author: "Mark Verhees",
+        source: "https://www.voorpositiviteit.nl/koekjes/",
         content: `
-Lang geleden ging een man op een zondagmorgen naar het bos om hout te hakken. Van het gehakte hout maakte hij een grote takkenbos, wierp die op zijn schouders en keerde huiswaarts.<br><br>Onderweg ontmoette hij een kluizenaar, die met toverkracht was begaafd. Deze bleef voor de houthakker staan en sprak tot hem: "Wel man, hoe durf je om op zondag te werken! Weet je dan niet, dat er geschreven staat: zes dagen zul je werken, maar op de zevende dag zul je rusten?"<br><br>"Och kom," zei de houthakker vloekend, "wat kan het mij schelen, of het zondag of maandag is! Als ik op zondag werken wil, dan doe ik het." En met een vloek in plaats van een groet wilde hij zich verwijderen.<br><br>Maar de kluizenaar sprak: "Dan zal je voor straf en als waarschuwing voor anderen voor eeuwig met uw takkenbos op de rug in de maan zitten."<br><br>Hij raakte hem even met zijn toverstaf aan en daar vloog de houthakker naar de maan. Op heldere avonden kunt je hem daar nog altijd met zijn takkenbos zien zitten.
+Een vrouw stond te wachten op het vliegveld.<br>Ze kocht een boek en een zak met koekjes.<br>En ze vond een plek om rustig te gaan zitten.<br><br>Ze begon met lezen en het boek greep haar aandacht.<br>Naast haar kwam een stevige man zitten.<br>De man pakte een koekje uit de zak, die tussen hen in lag.<br>De vrouw probeerde dit te negeren om een scène te vermijden.<br><br>Dus nam ze zelf ook nog menig koekje.<br>En de man naast haar, de koekjesdief, bleef ook lekker door eten.<br>De vrouw raakte geïrriteerd.<br>Ze dacht: ‘het is dat ik zo’n aardig persoon ben, anders zou ik hem eens goed de les leren…’<br><br>Met elk koekje dat ze at, nam de man ook een koekje.<br>Toen er uiteindelijk nog één koekje over was, pakte de man het koekje en brak het in twee stukjes.<br>Hij bood haar de ene helft en at zelf de andere helft op.<br>De vrouw werd nijdig.<br>‘Ahh, wat is hij onbeleefd, ongelofelijk.<br>Hij toont niet eens een klein teken van dankbaarheid…’<br><br>De vrouw zuchtte uiteindelijk van opluchting toen haar vlucht werd omgeroepen.<br>Ze stond zonder blikken of blozen op en liep snel weg.<br><br>Eenmaal in het vliegtuig ging de vrouw zitten in haar stoel.<br>Ze pakte haar boek en wat vond ze in haar tas… haar eigen zak met koekjes.<br>Vol verdriet realiseerde ze zich: ‘Ohh, het was te laat voor excuses.<br>Ze was zelf de dief geweest.<br>En nog wel een hele ondankbare ook…’
+        `
+    },
+    {
+        title: "Onbekende titel",
+        author: "Onbekend",
+        source: "https://warempel.media",
+        content: `
+Hier komt nog een verhaal.<br>Ooit.<br>Of niet.
         `
     },
     
@@ -84,19 +91,17 @@ const stories3Minutes = [
         content: `
     Hallo<br>
     Leuk verhaal<br>
-    'Ik vrolijk je wat op,' zei hij. 'Kom, luister naar mijn lied.'<br>
+    Lekker kort ook.
         `
     },
     {
-        title: "Titel van Verhaal 2",
-        author: "Auteur Naam 2",
-        source: "Bron link 2",
+        title: "Onbekende titel",
+        author: "Onbekend",
+        source: "https://warempel.media",
         content: `
-            Er was eens een prachtige zonnige dag.<br>
-            Dit verhaal heeft veel te bieden.<br>Hopelijk geniet je ervan.
+Hier komt nog een verhaal.<br>Ooit.<br>Of niet.
         `
-    },
-    // Voeg meer verhalen toe op dezelfde manier
+    },    // Voeg meer verhalen toe op dezelfde manier
 ];
 
 const stories4Minutes = [
@@ -107,16 +112,16 @@ const stories4Minutes = [
         content: `
     Hallo<br>
     Leuk verhaal<br>
-    'Ik vrolijk je wat op,' zei hij. 'Kom, luister naar mijn lied.'<br>
+    Maar dit verhaal duurt écht geen 4 minuten!<br>
+    Ik wil mijn geld terug.
         `
     },
     {
-        title: "Titel van Verhaal 2",
-        author: "Auteur Naam 2",
-        source: "Bron link 2",
+        title: "Onbekende titel",
+        author: "Onbekend",
+        source: "https://warempel.media",
         content: `
-            Er was eens een prachtige zonnige dag.<br>
-            Dit verhaal heeft veel te bieden.<br>Hopelijk geniet je ervan.
+Hier komt nog een verhaal.<br>Ooit.<br>Of niet.
         `
     },
     // Voeg meer verhalen toe op dezelfde manier
@@ -169,7 +174,7 @@ const storyHTML = `
 const facebookShareButton = document.getElementById('facebook-share');
 const twitterShareButton = document.getElementById('twitter-share');
 
-const customShareText = "Ik heb zojuist een kort verhaal gelezen om de tijd te doden terwijl ik afscheid nam van een 💩 - Lees ook drukwerk via drukwerkjes.nl #drukwerkjes #poep #wc";
+const customShareText = "Ik heb zojuist een kort verhaal gelezen om de tijd te doden terwijl ik afscheid nam van een 💩 - Lees ook drukwerk via ";
 
 facebookShareButton.addEventListener('click', () => {
     const url = encodeURIComponent(window.location.href);
